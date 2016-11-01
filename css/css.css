@@ -949,3 +949,6 @@ html,body{
     display: block;
     height: 5px;
 }
+.cursor {
+    cursor: pointer;
+}
